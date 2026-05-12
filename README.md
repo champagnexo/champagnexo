@@ -1,9 +1,7 @@
-# Cristi Media Group 📱
+# Cristi Media Group
 
 ![Android Development](https://img.shields.io/badge/Android-Development-3DDC84?style=flat&logo=android&logoColor=white)
 ![Privacy Focused](https://img.shields.io/badge/Focus-Privacy_First-blue?style=flat)
-![Location: Belgium](https://img.shields.io/badge/Location-Belgium-red?style=flat)
-![Clean Code](https://img.shields.io/badge/Code-Clean-brightgreen?style=flat)
 
 ![Cristi Media Group App Suite: Studown and Scoreon Mockups](27.png)
 
