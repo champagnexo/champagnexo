@@ -22,14 +22,13 @@ We believe that apps should be simple, functional, and user-centric. Our approac
 *The ultimate study companion.*
 Track exam dates, build study streaks, and stay motivated.
 *   **Features:** Offline-first, no ads, no tracking, built-in study streak tracking.
-*   [Download on Play Store](https://play.google.com/) *(Replace with direct Play Store link)*
+*   [Download on Play Store]([https://play.google.com/](https://play.google.com/store/apps/details?id=com.cristimediagroup.studown))
 
 ### 🎾 Scoreon
 *The Ultimate Racket Sports Score Tracker.*
 Take your game to the next level with real-time score tracking for Tennis, Padel, Badminton, Squash, and Table Tennis.
 *   **Features:** Distraction-free UI, full Wear OS companion app, detailed match history.
-*   [Download on Play Store](https://play.google.com/) *(Replace with direct Play Store link)*
-
+*   [Download on Play Store]([https://play.google.com/](https://play.google.com/store/apps/details?id=com.cristimediagroup.scoreon))
 ## Connect with Us
 We love hearing from our users and fellow developers!
 
