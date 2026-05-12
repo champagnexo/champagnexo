@@ -5,6 +5,8 @@
 ![Location: Belgium](https://img.shields.io/badge/Location-Belgium-red?style=flat)
 ![Clean Code](https://img.shields.io/badge/Code-Clean-brightgreen?style=flat)
 
+![Cristi Media Group App Suite: Studown and Scoreon Mockups](27.jpg)
+
 **Cristi Media Group** is an independent Android development studio based in Belgium, dedicated to crafting high-quality, privacy-focused, and efficient mobile applications. Since 2018, we have been committed to building clean code and providing regular, reliable updates.
 
 ## About Us
