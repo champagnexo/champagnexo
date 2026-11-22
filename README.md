@@ -3,7 +3,7 @@
 ![Android Development](https://img.shields.io/badge/Android-Development-3DDC84?style=flat&logo=android&logoColor=white)
 ![Privacy Focused](https://img.shields.io/badge/Focus-Privacy_First-blue?style=flat)
 
-![Cristi Media Group App Suite: Studown and Scoreon Mockups](27.png)
+![Cristi Media Group App Suite: Studown and Scoreon Mockups](graphic.png)
 
 **Cristi Media Group** is an independent Android development studio based in Belgium, dedicated to crafting high-quality, privacy-focused, and efficient mobile applications. Since 2018, we have been committed to building clean code and providing regular, reliable updates.
 
